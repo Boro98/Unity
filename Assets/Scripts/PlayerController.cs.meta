@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aca2a9447acd7a24a8e628ed6aa8dd49
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - bSound: {fileID: 8300000, guid: 594dd23ba852065499cee4b4c5a7df5e, type: 3}
+  - hSound: {fileID: 8300000, guid: 0717c1b2e09435745b5b9e8e5ab13d51, type: 3}
+  - gemSound: {fileID: 8300000, guid: 5203883a8e0b3f748b91653eff8dabe0, type: 3}
+  - ResultScrenS: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
